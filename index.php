@@ -11,7 +11,7 @@
 <body>
     <h1>GENERATOR ALGORYTMÓW</h1>
     <form action="index.php" method="get">
-        Wpisz notację:<br>
+        Wpisz notację: (np. R' U L' U2 R U')<br>
         <input type="text" name="pole-tekstowe"><br>
         <button type="submit">GENERUJ</button>
     </form>
