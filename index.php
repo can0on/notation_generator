@@ -26,6 +26,7 @@
         }
     ?>
 
+    <h1>Przykładowe PLL'e</h1>
     <br>
     <img src="PLL/A.png"><br>
     <?php
