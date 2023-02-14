@@ -1,3 +1,3 @@
-# GENERATOR_NOTACJI
+# notation_generator
 
-Aplikacja tłumaczy notacje kostki rubika na wygodne dla oka obrazy.
+The application translates rubik's cube notations into easy-to-see images.
